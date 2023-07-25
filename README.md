@@ -2,6 +2,8 @@
 
 This project is a simple audio streaming service implemented in `C++` for `Linux`. It allows users to manage and stream music tracks using a `hash table` data structure.
 
+![Main Menu](images/main_menu.png)
+
 ## Features
 
 - Load tracks from a file and store them in a hash table.
