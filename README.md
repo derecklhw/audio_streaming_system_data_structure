@@ -39,21 +39,14 @@ This project is a simple audio streaming service implemented in `C++` for `Linux
 
 ### Usage
 
-1. Run the main program:
+Run the main program:
 
-   ```bash
-   ./music_library <file_name>
-   ```
+```bash
+./music_library <file_name>
+```
 
-   Replace `<filename>` with the name of the file containing music tracks. The program will load the tracks from the file and present a main menu for different operations.
+Replace `<filename>` with the name of the file containing music tracks. The program will load the tracks from the file and present a main menu for different operations.
 
-2. Main Menu Options:
-
-- [1] Add tracks from a file: Add new tracks from a different file to the library.
-- [2] Save tracks in the library to a file: Save the current tracks in the library to a new file.
-- [3] Search for tracks by artist: Search for tracks by entering the artist's name.
-- [4] Remove a track: Remove a specific track by entering its title and artist.
-- [5] Exit: Exit the program.
 
 ### Testing
 
